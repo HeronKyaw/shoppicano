@@ -4,10 +4,12 @@
 .dart_tool/
 .packages
 build/
+**/ios/Flutter/.last_build_id
+
 # If you're building an application, you may want to check-in your pubspec.lock
 pubspec.lock
 
-# Directory created by dartdoc
+# Directory created by dartdocw
 # If you don't generate documentation locally you can remove this line.
 doc/api/
 
@@ -25,3 +27,31 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+.vscode/
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
