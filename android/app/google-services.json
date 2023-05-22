@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "895976468942",
+    "project_id": "shoppicano",
+    "storage_bucket": "shoppicano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895976468942:android:a6b940c1c0a8b9be1b3b9f",
+        "android_client_info": {
+          "package_name": "com.example.shoppicano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895976468942-in1p2pbsqg6tiv2lr7r27qe5q3usdfuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciC9a8fytxxaLmfrXfVG47JkRMXvJeQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895976468942-in1p2pbsqg6tiv2lr7r27qe5q3usdfuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895976468942-p44bga2a44dqar39otscv9arh8jt48ii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppicano"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895976468942:android:978b640f2e32d4ea1b3b9f",
+        "android_client_info": {
+          "package_name": "com.shoppicano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895976468942-in1p2pbsqg6tiv2lr7r27qe5q3usdfuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAciC9a8fytxxaLmfrXfVG47JkRMXvJeQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895976468942-in1p2pbsqg6tiv2lr7r27qe5q3usdfuf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895976468942-p44bga2a44dqar39otscv9arh8jt48ii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppicano"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
